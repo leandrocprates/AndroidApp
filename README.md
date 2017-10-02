@@ -120,7 +120,7 @@ public class CDCInstanceIDService extends FirebaseInstanceIdService {
 
 }
 ```
-4. Classe CDCMessasingService.java responsavel por receber mensagens de Notificação .
+4. Classe **CDCMessasingService.java** responsavel por receber mensagens de Notificação .
 
 
 ```
