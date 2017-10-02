@@ -2,7 +2,7 @@
 
 
 
-- Aplicativo android integrado com o FCM Google para receber mensagens e notificações do servidor  (FCM). 
+- **Aplicativo android integrado com o FCM Google para receber mensagens e notificações do servidor  (FCM).**
 
 
 Para Criar um Projeto do FCM no Firebase seguir o tutorial da  [Caelum](http://blog.alura.com.br/integrando-app-android-com-o-firebase-cloud-messaging/) que tem uma otima explicação de como faze-lo. 
