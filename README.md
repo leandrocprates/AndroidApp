@@ -60,7 +60,7 @@ Para Criar um Projeto do FCM no Firebase seguir o tutorial da  [Caelum](http://b
 
 ``` 
 
-A classe **LoginActivity.java** possui uma tela de login e assim que for clicado o botao Login será gerado um token , que é o token que devemos armazenar no servidor para enviar-mos mensagem de notificação 
+2 - A classe **LoginActivity.java** possui uma tela de login e assim que for clicado o botao Login será gerado um token , que é o token que devemos armazenar no servidor para enviar-mos mensagem de notificação 
 
 ```
 Linha 46 - String token = FirebaseInstanceId.getInstance().getToken();
