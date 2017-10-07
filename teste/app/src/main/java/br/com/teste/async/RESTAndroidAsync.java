@@ -90,7 +90,7 @@ public class RESTAndroidAsync  extends AsyncTask<Object,Object,String> {
 
             resposta = response.body().toString();
 
-
+            response.close();
 
         }catch(Exception ex){
             Log.e("Erro REQUISICAO:" , ex.toString()) ;
